@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(25, 25, 25);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+.texto-container {
+    width: 100%; /* Define a largura do contêiner para 90% da tela */
+    margin: 0 auto; /* Centraliza o contêiner */
+    overflow: hidden; /* Corta qualquer conteúdo que transborde horizontalmente */
+}
+ul {
+    color: white;
+}
+a {
+    color: white;
+}
